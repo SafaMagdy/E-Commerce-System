@@ -1,0 +1,112 @@
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\Bakota.dll.config
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\Bakota.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\Bakota.pdb
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\csc.exe
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\csc.exe.config
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\csc.rsp
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\csi.exe
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\csi.exe.config
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\csi.rsp
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.AppContext.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Console.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.IO.Compression.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Security.Claims.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.ValueTuple.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\vbc.exe
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\vbc.exe.config
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\vbc.rsp
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\VBCSCompiler.exe
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Safa\source\repos\Bakota\Bakota\obj\Debug\Bakota.csprojAssemblyReference.cache
+C:\Users\Safa\source\repos\Bakota\Bakota\obj\Debug\Bakota.csproj.CoreCompileInputs.cache
+C:\Users\Safa\source\repos\Bakota\Bakota\obj\Debug\Bakota.csproj.CopyComplete
+C:\Users\Safa\source\repos\Bakota\Bakota\obj\Debug\Bakota.dll
+C:\Users\Safa\source\repos\Bakota\Bakota\obj\Debug\Bakota.pdb
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\Bakota.dll.config
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\Bakota.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\Bakota.pdb
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\csc.exe
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\csc.exe.config
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\csc.rsp
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\csi.exe
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\csi.exe.config
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\csi.rsp
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.AppContext.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Console.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.IO.Compression.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Security.Claims.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.ValueTuple.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\vbc.exe
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\vbc.exe.config
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\vbc.rsp
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\VBCSCompiler.exe
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\obj\Debug\Bakota.csprojAssemblyReference.cache
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\obj\Debug\Bakota.csproj.CoreCompileInputs.cache
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\obj\Debug\Bakota.csproj.CopyComplete
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\obj\Debug\Bakota.dll
+C:\Users\Safa\Desktop\Team 88\Bakota\Bakota\obj\Debug\Bakota.pdb
